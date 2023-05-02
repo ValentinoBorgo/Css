@@ -1,0 +1,19 @@
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: bold;
+    border: 2px solid red;
+    border-radius: 1rem;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    padding: 0.5rem;
+    position: fixed;
+    right: 50%;
+    bottom: 50%;
+    transition: all 0.4s;
+}
+
+a:hover{
+    transform: skew(15deg);
+    background-color: aqua;
+}

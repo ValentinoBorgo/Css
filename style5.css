@@ -1,0 +1,14 @@
+
+ul{
+    list-style: none;
+    background-color: grey;
+    border: 2px solid red;
+    font-size: x-large;
+    padding: 1rem;
+    width: 60%;
+}
+li{
+    color: white;
+    display: inline;
+    margin: 2rem;
+}

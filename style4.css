@@ -1,0 +1,14 @@
+.bloque{
+    border: 1px solid pink;
+    display: block;
+    flex-direction: column;
+    width: 300px;
+}
+
+.linea{
+    border: 1px solid black;
+    display: inline;
+    border-style: dotted;
+    width: 300px;
+    margin: 1rem;
+}
